@@ -1,0 +1,10 @@
+.link_navpanel{
+    color: white;
+    white-space: nowrap;
+}
+
+@media screen and (max-width:1200px){
+    .link_navpanel{
+        font-size: 12px;
+    }
+}
